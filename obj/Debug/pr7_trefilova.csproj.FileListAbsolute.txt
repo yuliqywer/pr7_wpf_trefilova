@@ -1,0 +1,16 @@
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\pr7_trefilova.csproj.AssemblyReference.cache
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\MainWindow.g.cs
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\App.g.cs
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\pr7_trefilova_MarkupCompile.cache
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\pr7_trefilova_MarkupCompile.lref
+C:\Users\st310-05\Desktop\pr7_trefilova\bin\Debug\pr7_trefilova.exe.config
+C:\Users\st310-05\Desktop\pr7_trefilova\bin\Debug\pr7_trefilova.exe
+C:\Users\st310-05\Desktop\pr7_trefilova\bin\Debug\pr7_trefilova.pdb
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\MainWindow.baml
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\pr7_trefilova.g.resources
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\pr7_trefilova.Properties.Resources.resources
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\pr7_trefilova.csproj.GenerateResource.cache
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\pr7_trefilova.csproj.CoreCompileInputs.cache
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\pr7_trefilova.exe
+C:\Users\st310-05\Desktop\pr7_trefilova\obj\Debug\pr7_trefilova.pdb
